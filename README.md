@@ -3,8 +3,11 @@ This project is a 'To Do list' like app created with `ReactJs` to implement and 
 
 In this case I'm using the [`useContext`](https://reactjs.org/docs/hooks-reference.html#usecontext) hook to manage the state.
 
-See the related `useReducer` state management hook approach:
--  [shopping-list-useReducer](https://github.com/agustinbressan/shopping-list-useReducer)
+See the other state management approaches:
+- Using hooks:
+    - [shopping-list-useReducer](https://github.com/agustinbressan/shopping-list-useReducer)
+- Using props:
+    - [shopping-list-props](https://github.com/agustinbressan/shopping-list-props)
 
 ## How the App works
 The Shopping list app has 2 small sections with the following features:
